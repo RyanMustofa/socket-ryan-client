@@ -1,0 +1,14 @@
+{
+  "name": "socket-ryan-client",
+  "version": "0.1.0",
+  "description": "Socket client untuk socket-ryan",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ryanmustofa",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io-client": "^4.5.4"
+  }
+}
